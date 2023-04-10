@@ -26,8 +26,8 @@ return (buffer);
 }
 
 /**
-* close_file - Close file description
-* @f: The file description to be closed.
+* close_file - Close file descriptors
+* @f: The file descriptor to be closed.
 */
 
 void close_file(int f)
